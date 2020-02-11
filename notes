@@ -1,11 +1,11 @@
-npx degit sveltejs/template aloha-my-friend .
-
 degit:
 https://github.com/Rich-Harris/degit
 - git clone removing  .git
 - caching
 - less to type
 - more with actions
+npx degit inside-event/aloha-my-friend aloha-my-friend
+(npx degit sveltejs/template chaud-du-svelte)
 
 Rollup:
 https://github.com/rollup/rollup
