@@ -1,0 +1,25 @@
+npx degit sveltejs/template aloha-my-friend .
+
+degit:
+https://github.com/Rich-Harris/degit
+- git clone removing  .git
+- caching
+- less to type
+- more with actions
+
+Rollup:
+https://github.com/rollup/rollup
+
+Rich Harris:
+Ny Time
+Guardian
+https://twitter.com/rich_harris
+involved in graphic charts and animations
+https://www.youtube.com/watch?v=BzX4aTRPzno
+https://www.youtube.com/watch?v=ogXETl_I0Dg
+
+Pancake: https://github.com/Rich-Harris/pancake
+Sapper: https://sapper.svelte.dev/
+
+Fonts articles:
+- https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts/
